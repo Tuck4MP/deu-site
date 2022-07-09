@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwj_76bIg-z4AhXlvJUCHSkfAWsQPAgI",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
